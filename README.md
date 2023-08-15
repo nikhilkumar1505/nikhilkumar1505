@@ -7,16 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar1505&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar1505" /> </p>
 
-- 🔭 I’m currently working at **Robosoft Technolgoies**
+- 🔭 I’m currently working at **Robosoft Technologies**
 
 - 🌱 I’m currently learning **Nodejs,Graphql, ExpressJs**
 
 
-- 🤝 I’m looking for New role **Software Enigeer**
+- 🤝 I’m looking for a New role **Software Engineer**
 
 - 📫 How to reach me **nklkumar150@gmail.con**
 
-- ⚡ Fun fact **I love Problem Solving and debugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
