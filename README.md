@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
 <h3 align="center">🎨 Blending Logic and Creativity Through Code</h3>
 
+![1688731653305](https://github.com/nikhilkumar1505/nikhilkumar1505/assets/68338566/31ffd968-3caa-4293-a119-fbcccc5ea0d0)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar1505&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar1505" /> </p>
 
 - 🔭 I’m currently working at **Robosoft Technolgoies**
 
 - 🌱 I’m currently learning **Nodejs,Graphql, ExpressJs**
+
 
 - 🤝 I’m looking for New role **Software Enigeer**
 
